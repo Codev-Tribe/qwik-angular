@@ -1,3 +1,4 @@
+import './theme.scss';
 import { component$ } from "@builder.io/qwik";
 import {
   QwikCityProvider,
